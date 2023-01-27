@@ -2,7 +2,7 @@ Aqui tão ajuntados os links dos textos que eu escrevi sobre os tópicos abaixo.
 
 ## Trabalho no exterior
 
-Eu atualmente moro e trabalho na Alemanha. Já morei na França. Já procurei emprego/fiz entrevistas para empresas estrangeiras com a intençao de trabalhar remoto do Brasil (EUA), e de imigrar - com visa sponsorship (Canadá, Alemanha, Reino Unido). Estes textos têm o objetivo de discutir como se preparar para uma entrevista internacional, como conseguir vagas alinhadas com cada perfil, quais são as diferenças de morar e trabalhar em cada um desses países (dentro dos limites da minha perspectiva). 
+Eu atualmente moro e trabalho na Alemanha. Já morei na França. Já procurei emprego/fiz entrevistas para empresas estrangeiras com a intenção de trabalhar remoto do Brasil (EUA), e de imigrar - com visa sponsorship (Canadá, Alemanha, Reino Unido). Estes textos têm o objetivo de discutir como se preparar para uma entrevista internacional, como conseguir vagas alinhadas com cada perfil, quais são as diferenças de morar e trabalhar em cada um desses países (dentro dos limites da minha perspectiva). 
 
 - [Por que eu quis sair do Brasil (comparação do trabalho Brasil vs Alemanha)](https://bit.ly/3aIzARC)
 - [Meu passo-a-passo para procurar emprego no exterior](https://bit.ly/3XFY55f)
@@ -13,6 +13,7 @@ Eu atualmente moro e trabalho na Alemanha. Já morei na França. Já procurei em
 - [Como funcionam as férias na Alemanha](https://bit.ly/3zlN3J5)
 - [Mitos sobre trabalho com tecnologia no exterior](https://bit.ly/3tikvwr)
 - [Nem tudo são flores na gringa](https://bit.ly/3H02Mzo)
+- Avaliando contratos: pacotes de benefícios (por vir)
 
 ## Coding challenges da gringa (Engenharia de Dados)
 
@@ -28,11 +29,11 @@ Na Alemanha, os processos seletivos, em geral, tem 4 ou 5 etapas:
 Aqui vão alguns links de projetinhos que eu fiz em casa. Eu não publico coding challenges que exigem sigilo. Também tomo o cuidado de desidentificar a empresa (tiro logo do README; edito qualquer parte do repo que contenha nome da empresa ou alguma coisa que foi discutida na entrevista que traz informações específicas sobre o contexto da empresa; junto todos os commits pra não deixar aparecer, sem querer, alguma informação sensível). O objetivo desses repos é so te dar uma ideia do tipo de coisas que pedem pra você se preparar melhor. Eu só publico coding challenges em que fui aprovada.
 
 - [Engenharia de Dados Pleno - 2022 Q1](https://bit.ly/3wC5p6i)
-- [Engenharia de Dados Pleno - 2022 Q4 (por vir)]()
+- Engenharia de Dados Pleno - 2022 Q4 (por vir)
 
 ### Reino Unido
 
-por vir...
+- Engenharia de Dados Pleno - 2023 Q1 (por vir)
 
 ## Transição de carreira
 
