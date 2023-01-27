@@ -14,21 +14,21 @@ Eu atualmente moro e trabalho na Alemanha. Já morei na França. Já procurei em
 - [Mitos sobre trabalho com tecnologia no exterior](https://bit.ly/3tikvwr)
 - [Nem tudo são flores na gringa](https://bit.ly/3H02Mzo)
 
-## Coding challenges da gringa
+## Coding challenges da gringa (Engenharia de Dados)
 
 ### Alemanha
 
 Na Alemanha, os processos seletivos, em geral, tem 4 ou 5 etapas: 
 - screening interview com recrutador in-house (quase todas as entrevistas que eu fiz foram com recrutadores da própria empresa que me encontraram ou que eu encontrei no LinkedIn. Essa etapa serve pra discutir expectativas de ambos os lados e passar um overview da sua carreira e objetivos)
-- coding challenge (leetcode e/ou projetinho pra fazer em casa)
+- coding challenge (leetcode - geralmente Python e SQL básicos - e/ou projetinho pra fazer em casa)
 - entrevista técnica (explicar as escolhas feitas no coding challenge e discutir tecnicamente experiências prévias, falar sobre os desafios da vaga, alinhar forma de trabalho e perfil esperado, tirar dúvidas. Às vezes rola um live-coding, whiteboard, e nem sempre te avisam antecipadamente)
 - entrevista com hiring manager (um misturado de tudo que rolou nas entrevistas anteriores. Em geral, essa é bem tranquila)
 - fit cultural (às vezes tem, às vezes não tem. Pra não bombar nessa basta ler a descrição da vaga com carinho e prestar atenção em tudo que te falam sobre como a empresa funciona ao longo das entrevistas anteriores. É bom googlar perguntas típicas dessa etapa e estar preparado pra responder quais os motivos pelos quais você quer trabalhar na empresa)
 
 Aqui vão alguns links de projetinhos que eu fiz em casa. Eu só publico coding challenges que não exigem sigilo. Também tomo o cuidado de desidentificar a empresa (tiro logo do README; edito qualquer parte do repo que contenha nome da empresa ou alguma coisa que foi discutida na entrevista que traz informações específicas sobre o contexto da empresa; junto todos os commits pra não deixar aparecer, sem querer, alguma informação sensível). O objetivo desses repos é so te dar uma ideia do tipo de coisas que pedem pra você se preparar melhor. Eu só publico coding challenges em que fui aprovada.
 
-- [Coding challenge que eu fiz pra empresa alemã - Engenheira de Dados Pleno](https://bit.ly/3wC5p6i)
-- [Coding challenge que eu fiz pra empresa alemã - Engenheira de Dados Pleno (por vir)]()
+- [Engenharia de Dados Pleno - 2022 Q1](https://bit.ly/3wC5p6i)
+- [Engenharia de Dados Pleno - 2022 Q4 (por vir)]()
 
 ### Reino Unido
 
