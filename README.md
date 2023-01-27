@@ -48,6 +48,8 @@ A primeira graduação que eu concluí foi em Linguística. Cursei metade de um 
 Meu background é acadêmico e de business. Quando comecei a trabalhar com dados tive muita dificuldade de entender alguns conceitos simples. E todo conteúdo que eu encontrava pressupunha algum conhecimento que eu não tinha. A maior parte das coisas que eu escrevo sobre dados, seja no Medium ou no Linkedin, é pra ajudar quem está nessa posição, ou gente curiosa que não é da área. 
 
 - [O que é Infraestrutura como Código (IaC)?](https://anneglienke.medium.com/o-que-%C3%A9-infraestrutura-como-c%C3%B3digo-iac-perspectiva-de-iniciante-80b124d1cb84)
+- [Terraform para iniciantes](https://github.com/anneglienke/terraform101)
+- [Upsert usando Delta Lake para iniciantes](https://github.com/anneglienke/upsert-delta101)
 - [Como enriquecer dados de prospects de graça (B2B)](https://anneglienke.medium.com/como-enriquecer-dados-de-prospects-de-gra%C3%A7a-b2b-66c9f488f48)
 
 
