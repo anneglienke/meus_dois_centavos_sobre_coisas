@@ -9,7 +9,8 @@ Eu atualmente moro e trabalho na Alemanha. Já morei na França. Já procurei em
 - [Como encontrar vagas que levam estrangeiro pra fora](https://bit.ly/3mu22JA)
 - [Emprego com sponsorship no Canadá](https://bit.ly/3wx06F2)
 - [Coisas pra considerar, além do dinheiro, na hora de escolher o destino](https://bit.ly/3msWoHw)
-- [Como é trabalhar na Alemanha](https://bit.ly/3NyfpUU)
+- [Cultura de trabalho/benefícios na Alemanha: Time Off](https://bit.ly/3NyfpUU)
+- [Cultura de trabalho/benefícios na Alemanha: Period Leave](https://bityli.com/fyFl4)
 - [Como funcionam as férias na Alemanha](https://bit.ly/3zlN3J5)
 - [Mitos sobre trabalho com tecnologia no exterior](https://bit.ly/3tikvwr)
 - [Nem tudo são flores na gringa](https://bit.ly/3H02Mzo)
@@ -42,6 +43,8 @@ Aqui vão alguns links de projetinhos que eu fiz em casa:
 A primeira graduação que eu concluí foi em Linguística. Cursei metade de um mestrado na área e desisti. Depois disso fiz uma graduação tecnológica em Marketing, na expectativa de sair da Academia e entrar no 'mundo corporativo'. Meu sonho era trabalhar com dados, padrões, descobrir coisas, desde o começo, quando eu ainda estudava Linguística. Consegui meu primeiro emprego como Analista de Dados e, pouco tempo depois, comecei a me interessar por Engenharia de Dados. Fiz essa última transição recentemente, durante a pandemia. Além dessas carreiras, ja trabalhei como revisora de textos, organizadora de eventos, já estudei direito e estagiei na área, já passei em concurso público, trabalhei no IBGE e algumas outras coisas... E depois de tudo isso, eu sinto que transição de carreira é um tema sobre o qual eu me sinto muito confortável pra falar. Fica aqui meus dois centavos:
 
 - [Sobre migração de carreira e coisas que as pessoas esquecem de mencionar](https://bit.ly/3wzTp4Z)
+- [Amizade no trabalho e networking](https://bityli.com/T5cPm)
+- [Navegando pelo excesso de conteúdo na internet](https://www.linkedin.com/posts/anneglienke_nunca-foi-t%C3%A3o-f%C3%A1cil-estudar-com-todo-esse-activity-6958030817621114881-jhCb?utm_source=share&utm_medium=member_desktop)
 
 ## Dados
 
