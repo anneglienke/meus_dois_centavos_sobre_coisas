@@ -17,7 +17,7 @@ Eu atualmente moro e trabalho na Alemanha. Já morei na França. Já procurei em
 
 ## Coding challenges da gringa (Engenharia de Dados)
 
-Informações importantes sobre esse tópico: eu não publico coding challenges que exigem sigilo. Também tomo o cuidado de desidentificar a empresa (tiro logo do README; edito qualquer parte do repo que contenha nome da empresa ou alguma coisa que foi discutida na entrevista que traz informações específicas sobre o contexto da empresa; junto todos os commits pra não deixar aparecer, sem querer, alguma informação sensível). O objetivo desses repos é so te dar uma ideia do tipo de coisas que pedem pra você se preparar melhor. Eu também só publico coding challenges em que fui aprovada.
+Informações importantes sobre esse tópico: eu não publico coding challenges que exigem sigilo. Também tomo o cuidado de desidentificar a empresa (tiro logo do README; edito qualquer parte do repo que contenha nome da empresa ou alguma coisa que foi discutida na entrevista que traz informações específicas sobre o contexto da empresa; junto todos os commits pra não deixar aparecer, sem querer, alguma informação sensível). Eu também só publico coding challenges em que fui aprovada. O objetivo desses repos é só te dar uma ideia do tipo de coisas que pedem pra você se preparar melhor. 
 
 ### Alemanha
 
