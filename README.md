@@ -46,6 +46,7 @@ A primeira graduação que eu concluí foi em Linguística. Cursei metade de um 
 - [Amizade no trabalho e networking](https://bityli.com/T5cPm)
 - [Navegando pelo excesso de conteúdo na internet](https://www.linkedin.com/posts/anneglienke_nunca-foi-t%C3%A3o-f%C3%A1cil-estudar-com-todo-esse-activity-6958030817621114881-jhCb?utm_source=share&utm_medium=member_desktop)
 - [Roadmap de transição para Análise de Dados](https://www.linkedin.com/posts/anneglienke_se-eu-quisesse-come%C3%A7ar-uma-transi%C3%A7%C3%A3o-de-carreira-activity-7026123845765840897-id06?utm_source=share&utm_medium=member_desktop)
+- [Qual é a melhor forma de estudar pra entrar na área de Dados?](https://anneglienke.medium.com/qual-%C3%A9-a-melhor-forma-de-estudar-pra-entrar-na-%C3%A1rea-de-dados-641f60b4173d)
 
 ## Dados
 
