@@ -14,6 +14,7 @@ Eu atualmente moro e trabalho na Alemanha. Já morei na França. Já procurei em
 - [Como funcionam as férias na Alemanha](https://bit.ly/3zlN3J5)
 - [Mitos sobre trabalho com tecnologia no exterior](https://bit.ly/3tikvwr)
 - [Nem tudo são flores na gringa](https://bit.ly/3H02Mzo)
+- [Probation e notice periods na Alemanha](https://www.linkedin.com/posts/anneglienke_em-%C3%A9poca-de-layoffs-se-voc%C3%AA-t%C3%A1-analisando-activity-7030834200689664000-d4gR?utm_source=share&utm_medium=member_desktop) 
 - Avaliando contratos: pacotes de benefícios (por vir)
 
 ## Coding challenges da gringa (Engenharia de Dados)
