@@ -35,7 +35,7 @@ Na Alemanha, os processos seletivos, em geral, têm 4 ou 5 etapas:
 Aqui vão alguns links de projetinhos que eu fiz em casa: 
 
 - [Engenharia de Dados Pleno - 2022 Q1](https://bit.ly/3wC5p6i)
-- Engenharia de Dados Pleno - 2022 Q4 (por vir)
+- [Engenharia de Dados Pleno - 2022 Q4](https://github.com/anneglienke/challenge-DE-ListenBrainzETL)
 
 ### Reino Unido
 
