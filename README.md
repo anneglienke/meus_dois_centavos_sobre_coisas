@@ -25,6 +25,8 @@ Informações importantes sobre esse tópico: eu só publico coding challenges e
 
 ### Brasil
 
+Nesse desafio a empresa está identificada porque o processo seletivo era completamente aberto e transparente pra quem quisesse aplicar. O dataset tá disponível na internet até hoje. 
+
 - [Análise de Dados Junior - 2020 Q1](https://github.com/anneglienke/challenge_DA-OlistData)
 
 ### Alemanha
