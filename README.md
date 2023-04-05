@@ -19,9 +19,13 @@ Eu atualmente moro e trabalho na Alemanha. Já morei na França. Já procurei em
 - [Como falar de salário em processo seletivo pro exterior?](https://www.linkedin.com/posts/anneglienke_como-falar-de-sal%C3%A1rio-em-processo-seletivo-activity-7036297442119536640-qJpL?utm_source=share&utm_medium=member_desktop)
 - Avaliando contratos: pacotes de benefícios (por vir)
 
-## Coding challenges da gringa (Engenharia de Dados)
+## Coding challenges (Análise e Engenharia de Dados, no Brasil e na gringa)
 
 Informações importantes sobre esse tópico: eu só publico coding challenges em que fui aprovada. Não publico coding challenges de empresas que pedem sigilo. Também tomo o cuidado de desidentificar a empresa (tiro logo do README; edito qualquer parte do repo que contenha nome da empresa ou alguma coisa que foi discutida na entrevista que traz informações específicas sobre o contexto da empresa; junto todos os commits pra não deixar aparecer, sem querer, alguma informação sensível). O objetivo desses repos é só te dar uma ideia do tipo de coisas que pedem pra você se preparar melhor. 
+
+### Brasil
+
+- [Análise de Dados Junior - 2020 Q1](https://github.com/anneglienke/challenge_DA-OlistData)
 
 ### Alemanha
 
