@@ -12,7 +12,7 @@ Eu atualmente moro e trabalho no Reino Unido. Já morei na França e na Alemanha
 - [Emprego com sponsorship no Canadá](https://bit.ly/3wx06F2)
 - [Coisas pra considerar, além do dinheiro, na hora de escolher o destino](https://bit.ly/3msWoHw)
 - [Cultura de trabalho/benefícios na Alemanha: Time Off](https://bit.ly/3NyfpUU)
-- [Cultura de trabalho/benefícios na Alemanha: Period Leave](https://bityli.com/fyFl4)
+- [Cultura de trabalho/benefícios na Alemanha: Period Leave]([https://bityli.com/fyFl4](https://www.linkedin.com/posts/anneglienke_quando-eu-conto-essas-coisas-ningu%C3%A9m-acredita-activity-6970106783268753408-_2UZ/?utm_source=share&utm_medium=member_desktop))
 - [Como funcionam as férias na Alemanha](https://bit.ly/3zlN3J5)
 - [Mitos sobre trabalho com tecnologia no exterior](https://bit.ly/3tikvwr)
 - [Nem tudo são flores na gringa](https://bit.ly/3H02Mzo)
@@ -32,7 +32,7 @@ Eu atualmente moro e trabalho no Reino Unido. Já morei na França e na Alemanha
 A primeira graduação que eu concluí foi em Linguística. Cursei metade das matérias de um mestrado na área e desisti. Depois disso fiz uma graduação tecnológica em Marketing, na expectativa de sair da Academia e entrar no 'mundo corporativo'. Desde o começo, quando eu ainda estudava Linguística, meu sonho era trabalhar com dados, padrões, descobrir coisas. Consegui meu primeiro emprego como Analista de Dados e, pouco tempo depois, comecei a me interessar por Engenharia de Dados. Fiz essa última transição recentemente, durante a pandemia. Além dessas posições, ja trabalhei como revisora de textos, organizadora de eventos, aupair, já estudei Relações Internacionais, depois Direito (e estagiei na área), passei em concursos públicos, trabalhei no IBGE e algumas outras coisas... E depois de tudo isso, eu sinto que transição de carreira é um tema sobre o qual eu me sinto confortável pra falar. 
 
 - [Sobre migração de carreira e coisas que as pessoas esquecem de mencionar](https://bit.ly/3wzTp4Z)
-- [Amizade no trabalho e networking](https://bityli.com/T5cPm)
+- [Amizade no trabalho e networking]([https://bityli.com/T5cPm](https://www.linkedin.com/posts/anneglienke_a-gente-dedica-tanto-tempo-a-se-desenvolver-activity-7003731823453220864-GfFx/?utm_source=share&utm_medium=member_desktop))
 - [Navegando pelo excesso de conteúdo na internet](https://www.linkedin.com/posts/anneglienke_nunca-foi-t%C3%A3o-f%C3%A1cil-estudar-com-todo-esse-activity-6958030817621114881-jhCb?utm_source=share&utm_medium=member_desktop)
 - [Roadmap de transição para Análise de Dados](https://www.linkedin.com/posts/anneglienke_se-eu-quisesse-come%C3%A7ar-uma-transi%C3%A7%C3%A3o-de-carreira-activity-7026123845765840897-id06?utm_source=share&utm_medium=member_desktop)
 - [Qual é a melhor forma de estudar pra entrar na área de Dados?](https://anneglienke.medium.com/qual-%C3%A9-a-melhor-forma-de-estudar-pra-entrar-na-%C3%A1rea-de-dados-641f60b4173d)
@@ -96,7 +96,8 @@ Meu background não é tech. Quando comecei a trabalhar com dados tive muita dif
 - [Terraform para iniciantes](https://github.com/anneglienke/terraform101)
 - [Upsert usando Delta Lake para iniciantes](https://github.com/anneglienke/upsert-delta101)
 - [Como enriquecer dados de prospects de graça (B2B)](https://anneglienke.medium.com/como-enriquecer-dados-de-prospects-de-gra%C3%A7a-b2b-66c9f488f48)
-
+- [Pre-commit](https://github.com/anneglienke/101_pytest)
+- [Tests usando Pytest](https://github.com/anneglienke/101_pytest)
 
 
 
